@@ -1,0 +1,11 @@
+clone
+clone.c
+execle
+execle.c
+forkbomb
+forkbomb.c
+forkwaitexec
+forkwaitexec.c
+output.txt
+shell
+shell.c
